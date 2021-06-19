@@ -1,0 +1,26 @@
+{
+	"name": "mandala",
+	"version": "1.0.0",
+	"description": "Generator different Geometric form",
+	"main": "mandala.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kramarenko/mandala.git"
+	},
+	"keywords": [
+		"javascript",
+		"canvas",
+		"es6",
+		"dat-gui",
+		"mandala"
+	],
+	"author": "Vasiliy Kramarenko",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kramarenko/mandala/issues"
+	},
+	"homepage": "https://github.com/kramarenko/mandala#readme"
+}
